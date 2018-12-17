@@ -12,4 +12,4 @@ source $YHOME/yup.zsh
 source $YHOME/.autoload
 
 ZSH_THEME=vs
-yup oh-my-style https://raw.githubusercontent.com/LXTechnic/public/master/zsh-themes/vs.zsh-theme
+yup oh-my-style https://raw.githubusercontent.com/andares/public/master/zsh-themes/vs.zsh-theme
