@@ -14,7 +14,7 @@ source $YHOME/.autoload
 ZSH_THEME=vs
 yup oh-my-style https://raw.githubusercontent.com/andares/public/master/zsh-themes/vs.zsh-theme
 
-pull-file https://raw.githubusercontent.com/andares/public/master/vim/general.vimrc ~/.vimrc asrkmmx26d
+yup pull-file https://raw.githubusercontent.com/andares/public/master/vim/general.vimrc ~/.vimrc asrkmmx26d
 
 # key bindings
 # bindkey "\e[1~" beginning-of-line
