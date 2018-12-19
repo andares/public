@@ -1,9 +1,9 @@
-# asrkmmx26d
+" asrkmmx26d
 nnoremap    i   k
 nnoremap    j   h
 nnoremap    m   j
 
-# set
+" set
 set encoding=utf-8
 set termencoding=cp936
 set fileencoding=utf-8
