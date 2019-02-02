@@ -6,7 +6,7 @@ export PATH="$YHOME/.bin:$PATH"
 
 _addons=(
     https://github.com/LXTechnic/yup-tool.git
-    ssh://git@git.veeshan.io:1022/andares/ashes.git
+    git@github.com:andares/ashes.git
 )
 
 source $YHOME/yup.zsh
