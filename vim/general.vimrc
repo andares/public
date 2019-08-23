@@ -1,7 +1,7 @@
 " asrkmmx26d
-nnoremap    i   k
-nnoremap    j   h
-nnoremap    m   j
+"nnoremap    i   k
+"nnoremap    j   h
+"nnoremap    m   j
 
 " set
 set encoding=utf-8
